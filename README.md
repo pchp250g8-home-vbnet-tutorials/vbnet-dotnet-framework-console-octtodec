@@ -1,4 +1,4 @@
-OctToDec. VBNet Tutorials. DotNet FrameWork Platform. Simple Input/Output. Strings. Algorithms. Console Application. 
+OctToDec. VBNet Tutorials. DotNet FrameWork Platform. Simple Input/Output. Strings. Algorithms. Console Application.
 A console application in the VB.Net programming language. 
 The program does the following:
   1. Asks the user to enter a string.
